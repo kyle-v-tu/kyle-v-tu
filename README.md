@@ -1,7 +1,2 @@
-<h3>Hey! I'm:</h3>
-<p>
-📛 Kyle
-<br>🏫 a freshman studying Computer Science
-<br>👨‍💻 someone who likes to make web apps to show my friends
-</p>
-<hr>
+<h1>About me</h1>
+<p>Hey, my name is Kyle, and I'm currently in my 4th year studying Information Science at the University of Maryland, College Park.</p>
